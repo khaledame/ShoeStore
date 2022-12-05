@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="appName">Scarba</string>
+    <string name="image_of_the_app">image of the app</string>
+    <string name="name">Name</string>
+    <string name="size">size</string>
+    <string name="company">company</string>
+    <string name="description">description</string>
+    <string name="add">add</string>
+    <string name="shoe_name">shoe name</string>
+    <string name="signup">signup</string>
+    <string name="SignIn">SignIn</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="you_don_t_have_account">you don\'t have account ?</string>
+    <string name="desc">you can easily shop in the and order what you what you want , it\'s easy to browse</string>
+    <string name="welcome_screen">welcome to scraba</string>
+    <string name="welcome_screen_image">welcome screen image</string>
+    <string name="deliver_fast">Deliver fast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">next</string>
+    <string name="let_s_start">let\'s start</string>
+    <string name="logout">logout</string>
+</resources>
